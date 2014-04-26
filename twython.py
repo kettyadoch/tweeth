@@ -5,10 +5,10 @@ import csv
 import re
 
 # These are the keys for your twitter application, as discussed earlier in the tutorial
-APP_KEY            = 'T4UDGPuFuDGLeYF4jyPsoDpdg'
-APP_SECRET         = 'tc0B2LGgFKaNcOLk4dl4XnDyBFb9HFBkFzn3j5hGoT1Hl6m7Mo'
-OAUTH_TOKEN        = '320585349-z6TWcTkuywdTar2DLZyh1QdKoPvKhWwOl9lpUDFM'
-OAUTH_TOKEN_SECRET = 'RgIC0RYYOqc3I3UpvdsLKNerGbVm4c7JHeVgaJVwvhHJZ'
+APP_KEY            = ''
+APP_SECRET         = ''
+OAUTH_TOKEN        = ''
+OAUTH_TOKEN_SECRET = ''
 
 # Prompt the user for the terms to track
 track_terms = raw_input("What terms do you want to track? (separate multiple with a comma): ")
